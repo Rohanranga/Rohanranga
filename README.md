@@ -2,7 +2,7 @@
 AI/ML & Prompt Engineering | AI Engineering & Full Stack Developer | RAG Pipelines | AI Generalist | Palantir Foundry | Flutter & XR Developer | Aspiring CTO & Tech Co-founder |
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ranga-rohan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://ranga-rohan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-ranga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uniquerohanranga@gmail.com)
 
